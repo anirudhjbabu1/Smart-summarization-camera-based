@@ -1,0 +1,1 @@
+# Smart-summarization-camera-based
